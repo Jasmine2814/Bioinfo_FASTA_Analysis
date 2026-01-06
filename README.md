@@ -41,3 +41,30 @@ The script reads FASTA sequences and generates a tab-separated report containing
 - Duplicate sequence detection
 - ORF (Open Reading Frame) analysis
 - GC content plot using matplotlib
+
+
+## Sample Output
+
+<table>
+  <tr>
+    <th>Gene_Name</th>
+    <th>Length</th>
+    <th>GC_Content(%)</th>
+    <th>AT_Content(%)</th>
+    <th>Reverse_Complement</th>
+  </tr>
+  <tr>
+    <td>Gene_A</td>
+    <td>20</td>
+    <td>50.00</td>
+    <td>50.00</td>
+    <td>CTAGCTAGCTACGTACGCAT</td>
+  </tr>
+  <tr>
+    <td>Gene_B</td>
+    <td>15</td>
+    <td>46.67</td>
+    <td>53.33</td>
+    <td>TAGCTAGCTACGCAT</td>
+  </tr>
+</table>
