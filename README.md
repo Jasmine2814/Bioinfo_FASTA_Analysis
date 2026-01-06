@@ -18,6 +18,7 @@ This demo project was created to practice Linux file handling and basic bioinfor
 - Calculated GC content (%)
 - Calculated AT content (%)
 - Generated reverse complement of each sequence
+- Duplicate sequence detection
 
 ## How to Run
 cd scripts  
@@ -38,7 +39,6 @@ The script reads FASTA sequences and generates a tab-separated report containing
 
 ## Future Improvements
 - Sequence validation (check for invalid bases)
-- Duplicate sequence detection
 - ORF (Open Reading Frame) analysis
 - GC content plot using matplotlib
 

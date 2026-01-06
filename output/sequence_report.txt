@@ -1,4 +1,0 @@
-Gene_Name	Length	GC_Content(%)	AT_Content(%)	Reverse_Complement
-Gene_A_demo	20	50.00	50.00	CTAGCTAGCTACGTACGCAT
-Gene_B_demo	15	46.67	53.33	TAGCTAGCTACGCAT
-Gene_C_demo	24	50.00	50.00	CTAGCTAGCTAGCTACGTACGCAT
