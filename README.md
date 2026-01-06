@@ -31,6 +31,7 @@ The script reads FASTA sequences and generates a tab-separated report containing
 - GC content (%)
 - AT content (%)
 - Reverse complement
+- Duplicate sequence detection
 
 ## Note
 - This project uses small demo sequences for learning purposes.
@@ -75,3 +76,5 @@ The script reads FASTA sequences and generates a tab-separated report containing
     <td>CTAGCTAGCTAGCTACGTACGCAT</td>
   </tr>
 </table>
+
+See 'sample_output.txt' for an example of the generated report.
