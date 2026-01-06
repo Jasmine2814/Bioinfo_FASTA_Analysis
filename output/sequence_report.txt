@@ -1,0 +1,4 @@
+Gene_Name	Length	GC_Content(%)
+Gene_A_demo	20	50.00
+Gene_B_demo	15	46.67
+Gene_C_demo	24	50.00
