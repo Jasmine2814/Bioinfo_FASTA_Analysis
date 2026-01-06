@@ -67,4 +67,11 @@ The script reads FASTA sequences and generates a tab-separated report containing
     <td>53.33</td>
     <td>TAGCTAGCTACGCAT</td>
   </tr>
+  <tr>
+    <td>Gene_C</td>
+    <td>24</td>
+    <td>50.00</td>
+    <td>50.00</td>
+    <td>CTAGCTAGCTAGCTACGTACGCAT</td>
+  </tr>
 </table>
